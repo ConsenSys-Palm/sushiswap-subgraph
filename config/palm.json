@@ -1,6 +1,6 @@
 {
   "key": "palm",
-  "network": "palm",
+  "network": "palm-mainnet",
   "factory_address": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
   "sushi_token_address": "0x0000000000000000000000000000000000000000",
   "usdc_weth_pair": "0x0000000000000000000000000000000000000000",
